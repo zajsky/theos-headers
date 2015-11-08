@@ -1,0 +1,2 @@
+@interface SBDarkeningImageView : UIImageView
+@end
